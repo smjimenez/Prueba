@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	
 	
 	System.out.println("vamos por la rama 3");
+	System.out.println("Otra cosa");
 }
 }
